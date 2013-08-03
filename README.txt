@@ -4,7 +4,7 @@ Noqomo Currency Converter
 
 For details instructions of how to use this script,
 please visit: 
-http://www.github.com/Noqomo/noq_py_currency-converter
+http://www.noqomo.com/projects/project-currency-converter-in-python-with-pyqt-pyside/
 
 Noqomo Currency Converter is a simple currency conversion
 application.
