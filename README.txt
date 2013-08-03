@@ -2,6 +2,10 @@
 Noqomo Currency Converter
 =========================
 
+For details instructions of how to use this script,
+please visit: 
+http://www.github.com/Noqomo/noq_py_currency-converter
+
 Noqomo Currency Converter is a simple currency conversion
 application.
 
